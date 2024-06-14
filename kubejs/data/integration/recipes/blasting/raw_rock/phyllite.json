@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/phyllite"
+  },
+  "result": "tfc:rock/raw/phyllite",
+  "experience": 0.0,
+  "cooking_time": 400
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/sequoia"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/sequoia",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

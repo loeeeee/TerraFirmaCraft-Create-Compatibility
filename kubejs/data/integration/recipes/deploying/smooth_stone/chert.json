@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/chert"
+      },
+      {
+        "tag": "tfc:chisels"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/smooth/chert"
+      }
+    ],
+    "keepHeldItem": true
+}

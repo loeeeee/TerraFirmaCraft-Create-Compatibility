@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/blue_unfired_vessel"
+    },
+    "result": "tfc:ceramic/blue_glazed_vessel",
+    "experience": 0.0,
+    "cookingtime": 400
+}

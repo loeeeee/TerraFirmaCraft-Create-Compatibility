@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_brick"
+    },
+    "result": "minecraft:brick",
+    "experience": 0.0,
+    "cookingtime": 150
+}

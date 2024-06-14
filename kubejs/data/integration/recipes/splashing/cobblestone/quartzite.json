@@ -1,0 +1,27 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/quartzite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ore/cinnabar",
+        "chance": 0.0101
+      },
+      {
+        "item": "tfc:ore/small_native_silver",
+        "chance": 0.03
+      },
+      {
+        "item": "tfc:ore/small_sphalerite",
+        "chance": 0.06
+      },
+      {
+        "item": "tfc:ore/small_tetrahedrite",
+        "chance": 0.10
+      }
+    ],
+    "processingTime": 150
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:fire_clay_block"
+      },
+      {
+        "tag": "forge:double_ingots"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ceramic/unfired_crucible"
+      }
+    ],
+    "keepHeldItem": true
+}

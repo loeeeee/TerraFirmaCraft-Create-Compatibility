@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "result_fluid": {
+      "fluid": "tfc:metal/brass",
+      "amount": 50
+    },
+    "temperature": 930
+}

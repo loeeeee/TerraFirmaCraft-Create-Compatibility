@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/slate"
+  },
+  "result": "tfc:rock/raw/slate",
+  "experience": 0.0,
+  "cooking_time": 400
+}

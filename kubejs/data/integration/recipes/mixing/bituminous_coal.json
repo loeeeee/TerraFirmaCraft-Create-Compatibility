@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "tfc:ore/lignite"
+      },
+      {
+        "item": "tfc:ore/lignite"
+      },
+      {
+        "item": "tfc:ore/lignite"
+      },
+      {
+        "item": "tfc:powder/coke"
+      },
+      {
+        "item": "tfc:powder/coke"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ore/bituminous_coal",
+        "count": 3
+      }
+    ]
+}

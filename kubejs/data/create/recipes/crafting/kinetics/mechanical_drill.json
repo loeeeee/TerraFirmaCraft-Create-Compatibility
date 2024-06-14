@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " A ",
+      "AIA",
+      " C "
+    ],
+    "key": {
+      "C": {
+        "item": "create:andesite_casing"
+      },
+      "A": {
+        "item": "create:andesite_alloy"
+      },
+      "I": {
+        "item": "tfc:metal/ingot/cast_iron"
+      }
+    },
+    "result": {
+      "item": "create:mechanical_drill"
+    }
+  }

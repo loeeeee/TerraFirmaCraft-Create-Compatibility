@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "kubejs:crushed_bismuth_ore"
+    },
+    "result_fluid": {
+        "fluid": "tfc:metal/bismuth",
+        "amount": 100
+    },
+    "temperature": 270
+}

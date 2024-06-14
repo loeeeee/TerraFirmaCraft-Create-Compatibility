@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/gabbro"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/gabbro",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

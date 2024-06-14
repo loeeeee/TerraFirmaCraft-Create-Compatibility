@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tfc:olive_oil",
+      "amount": 500
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "count": 2
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:incandescent_oil",
+      "amount": 250
+    }
+  ],
+  "processingTime": 200,
+  "heatRequirement": "heated"
+}

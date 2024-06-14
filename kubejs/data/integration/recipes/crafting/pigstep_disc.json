@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "tfc:blank_disc"
+      },
+      {
+        "item": "minecraft:lava_bucket"
+      }
+    ],
+    "result": {
+      "item": "minecraft:music_disc_pigstep"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "minecraft:clay"
+      },
+      {
+        "tag": "integration:tool_heads/sword"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ceramic/unfired_sword_blade_mold"
+      }
+    ],
+    "keepHeldItem": true
+}

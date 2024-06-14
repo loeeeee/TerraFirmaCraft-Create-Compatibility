@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_ingot/black_bronze"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/black_bronze"
+      }
+    ]
+}

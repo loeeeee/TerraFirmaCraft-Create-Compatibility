@@ -1,0 +1,16 @@
+{
+    "type": "tfc:anvil",
+    "input": {
+      "tag": "forge:sheets/steel"
+    },
+    "result": {
+      "item": "kubejs:circular_saw",
+      "count": 2
+    },
+    "tier": 4,
+    "rules": [
+      "punch_last",
+      "hit_not_last",
+      "punch_not_last"
+    ]
+}

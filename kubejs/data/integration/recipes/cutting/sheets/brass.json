@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/brass"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/brass",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

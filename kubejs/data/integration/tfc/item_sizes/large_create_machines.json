@@ -1,0 +1,27 @@
+{
+    "ingredient": [
+        {
+            "item": "create:deployer"
+        },
+        {
+            "item": "create:mechanical_mixer"
+        },
+        {
+            "item": "create:mechanical_press"
+        },
+        {
+            "item": "create:mechanical_arm"
+        },
+        {
+            "item": "create:crushing_wheel"
+        },
+        {
+            "item": "create:water_wheel"
+        },
+        {
+            "item": "create:steam_engine"
+        }
+    ],
+    "size": "large",
+    "weight": "medium"
+}

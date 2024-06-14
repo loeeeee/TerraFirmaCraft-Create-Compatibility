@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "tfc:glue"
+      },
+      {
+        "item": "tfc:glue"
+      },
+      {
+        "item": "tfc:metal/sheet/tin"
+      }
+    ],
+    "result": {
+      "item": "create:super_glue"
+    }
+}

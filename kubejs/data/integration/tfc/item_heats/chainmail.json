@@ -1,0 +1,17 @@
+{
+    "ingredient": [
+      {
+        "item": "minecraft:chainmail_helmet"
+      },
+      {
+        "item": "minecraft:chainmail_chestplate"
+      },
+      {
+        "item": "minecraft:chainmail_leggings"
+      },
+      {
+        "item": "minecraft:chainmail_boots"
+      }
+    ],
+    "heat_capacity": 4.286
+}

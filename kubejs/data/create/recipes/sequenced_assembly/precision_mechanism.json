@@ -1,0 +1,67 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "tfc:metal/sheet/sterling_silver"
+    },
+    "transitionalItem": {
+      "item": "create:incomplete_precision_mechanism"
+    },
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          },
+          {
+            "item": "create:cogwheel"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          },
+          {
+            "fluid": "tfc:metal/gold",
+            "nbt": {},
+            "amount": 50
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          },
+          {
+            "item": "tfc:brass_mechanisms"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "create:precision_mechanism"
+      }
+    ],
+    "loops": 4
+  }

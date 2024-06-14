@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PP",
+      "MM",
+      "MM"
+    ],
+    "key": {
+      "P": {
+        "item": "tfc:unrefined_paper"
+      },
+      "M": {
+        "tag": "minecraft:planks"
+      }
+    },
+    "result": {
+      "item": "minecraft:cartography_table"
+    }
+}

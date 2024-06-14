@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "create:crushed_raw_copper"
+    },
+    "result_fluid": {
+        "fluid": "tfc:metal/copper",
+        "amount": 100
+    },
+    "temperature": 1080
+}

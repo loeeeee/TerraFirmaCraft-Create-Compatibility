@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "create:cut_diorite_bricks"
+    }
+  },
+  "result": {
+    "item": "create:small_diorite_bricks",
+    "count": 4
+  }
+}

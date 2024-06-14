@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:large_scraped_hide"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:large_prepared_hide"
+      }
+    ],
+    "processingTime": 100
+}

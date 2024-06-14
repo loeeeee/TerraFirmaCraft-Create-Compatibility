@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/stripped_log/sequoia"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/sequoia",
+        "count": 8
+      }
+    ],
+    "processingTime": 50
+}

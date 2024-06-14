@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/saltpeter"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/saltpeter",
+        "count": 4
+      }
+    ],
+    "processingTime": 100
+}

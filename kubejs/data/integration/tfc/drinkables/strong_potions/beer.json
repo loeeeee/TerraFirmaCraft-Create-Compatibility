@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_strong_beer",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:speed",
+      "duration": 2400,
+      "amplifier": 1
+    }
+  ]
+}

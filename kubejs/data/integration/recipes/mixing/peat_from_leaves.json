@@ -1,0 +1,59 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "minecraft:leaves"
+      },
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:peat",
+        "count": 8
+      }
+    ]
+}

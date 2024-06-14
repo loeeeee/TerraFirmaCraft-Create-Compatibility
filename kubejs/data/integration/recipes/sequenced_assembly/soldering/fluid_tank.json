@@ -1,0 +1,68 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:glass"
+  },
+  "transitionalItem": {
+    "item": "minecraft:glass"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "fluid": "kubejs:solder",
+          "nbt": {},
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:glass"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "tfc:metal/sheet/copper"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:glass"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "tfc:metal/sheet/copper"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:glass"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create:fluid_tank",
+      "count": 4
+    }
+  ],
+  "loops": 1
+}

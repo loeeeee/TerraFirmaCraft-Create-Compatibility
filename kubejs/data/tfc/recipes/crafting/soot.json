@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfc:glue"
+    },
+    {
+      "item": "tfc:powder/charcoal"
+    },
+    {
+      "tag": "integration:ash"
+    }
+  ],
+  "result": {
+    "item": "tfc:soot"
+  }
+}

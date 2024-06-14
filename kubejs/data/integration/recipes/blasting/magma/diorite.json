@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/raw/diorite"
+  },
+  "result": "tfc:rock/magma/diorite",
+  "experience": 0.0,
+  "cooking_time": 400
+}

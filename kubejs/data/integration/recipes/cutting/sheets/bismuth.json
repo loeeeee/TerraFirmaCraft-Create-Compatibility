@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/bismuth"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/bismuth",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

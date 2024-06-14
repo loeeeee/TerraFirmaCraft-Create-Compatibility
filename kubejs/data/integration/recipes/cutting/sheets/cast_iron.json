@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/cast_iron"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/cast_iron",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

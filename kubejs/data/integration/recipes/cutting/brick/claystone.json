@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:brick/claystone"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:rock/button/claystone"
+    }
+  ],
+  "processingTime": 25
+}

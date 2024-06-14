@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/wrought_iron"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/wrought_iron",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

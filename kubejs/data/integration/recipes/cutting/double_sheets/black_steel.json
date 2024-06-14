@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_sheet/black_steel"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/black_steel",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

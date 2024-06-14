@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " I ",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "tfc:metal/ingot/cast_iron"
+      }
+    },
+    "result": {
+      "item": "create:metal_bracket",
+      "count": 8
+    }
+}

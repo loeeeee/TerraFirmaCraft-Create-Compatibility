@@ -1,0 +1,16 @@
+{
+  "type": "tfc:barrel_sealed",
+  "input_item": {
+    "ingredient": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "input_fluid": {
+    "ingredient": "tfc:lye",
+    "amount": 250
+  },
+  "output_item": {
+    "item": "create:cut_deepslate"
+  },
+  "duration": 8000
+}

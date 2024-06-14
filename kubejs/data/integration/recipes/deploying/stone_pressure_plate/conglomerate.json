@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:brick/conglomerate"
+      },
+      {
+        "tag": "tfc:chisels"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/pressure_plate/conglomerate"
+      }
+    ],
+    "keepHeldItem": true
+}

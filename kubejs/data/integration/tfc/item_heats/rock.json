@@ -1,0 +1,11 @@
+{
+    "ingredient": [
+      {
+        "tag": "forge:stone"
+      },
+      {
+        "tag": "forge:cobblestone"
+      }
+    ],
+    "heat_capacity": 4
+}

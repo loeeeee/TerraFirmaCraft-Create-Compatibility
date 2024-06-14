@@ -1,0 +1,15 @@
+{
+    "type": "tfc:anvil",
+    "input": {
+      "item": "tfc:metal/double_ingot/brass"
+    },
+    "result": {
+      "item": "create:brass_hand"
+    },
+    "tier": 1,
+    "rules": [
+      "hit_last",
+      "bend_not_last",
+      "punch_not_last"
+    ]
+}

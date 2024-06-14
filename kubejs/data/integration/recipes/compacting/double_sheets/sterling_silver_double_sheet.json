@@ -1,0 +1,20 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/sterling_silver"
+      },
+      {
+        "item": "tfc:metal/sheet/sterling_silver"
+      },
+      {
+        "item": "tfc:powder/flux"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/double_sheet/sterling_silver"
+      }
+    ],
+    "heatRequirement": "heated"
+}

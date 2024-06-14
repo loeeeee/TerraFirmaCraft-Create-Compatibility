@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "MCM"
+    ],
+    "key": {
+      "C": {
+        "item": "create:chute"
+      },
+      "M": {
+        "item": "tfc:brass_mechanisms"
+      }
+    },
+    "result": {
+      "item": "create:smart_chute"
+    }
+}

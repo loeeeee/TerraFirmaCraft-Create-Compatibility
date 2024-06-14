@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "minecraft:clay"
+      },
+      {
+        "tag": "integration:tool_heads/propick"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ceramic/unfired_propick_head_mold"
+      }
+    ],
+    "keepHeldItem": true
+}

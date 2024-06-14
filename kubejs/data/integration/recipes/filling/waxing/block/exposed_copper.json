@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "minecraft:exposed_copper"
+      },
+      {
+        "fluid": "tfc:tallow",
+        "nbt": {},
+        "amount": 40
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:waxed_exposed_copper"
+      }
+    ]
+}

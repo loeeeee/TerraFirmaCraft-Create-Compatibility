@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/kapok"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/kapok",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

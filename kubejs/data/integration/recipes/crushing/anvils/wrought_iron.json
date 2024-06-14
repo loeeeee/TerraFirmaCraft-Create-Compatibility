@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:metal/anvil/wrought_iron"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/double_ingot/wrought_iron",
+        "count": 7
+      }
+    ],
+    "processingTime": 3200
+}

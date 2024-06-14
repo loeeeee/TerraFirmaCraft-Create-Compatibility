@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "C",
+      "W",
+      "S"
+    ],
+    "key": {
+      "C": {
+        "item": "create:cogwheel"
+      },
+      "W": {
+        "tag": "minecraft:planks"
+      },
+      "S": {
+        "tag": "forge:stone"
+      }
+    },
+    "result": {
+      "item": "create:millstone"
+    }
+}

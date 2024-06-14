@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "create:cut_scorchia"
+    }
+  },
+  "result": {
+    "item": "create:cut_scorchia_bricks",
+    "count": 4
+  }
+}

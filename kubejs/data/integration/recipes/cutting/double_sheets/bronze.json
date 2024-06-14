@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_sheet/bronze"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/bronze",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

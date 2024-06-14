@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/dacite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/dacite",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

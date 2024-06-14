@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:item_frame"
+      },
+      {
+        "item": "tfc:metal/rod/cast_iron"
+      },
+      {
+        "item": "tfc:metal/rod/cast_iron"
+      }
+    ],
+    "result": {
+      "item": "create:placard",
+      "count": 2
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "fluid": "tfc:metal/pig_iron",
+        "nbt": {},
+        "amount": 200
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:pig_iron_sheet"
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst",
+        "chance": 0.5
+      }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/wood/hickory"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_wood/hickory"
+      }
+    ],
+    "processingTime": 50
+}

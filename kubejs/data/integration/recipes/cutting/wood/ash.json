@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/wood/ash"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_wood/ash"
+      }
+    ],
+    "processingTime": 50
+}

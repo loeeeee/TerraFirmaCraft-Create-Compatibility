@@ -1,0 +1,25 @@
+{
+    "ingredient": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "item": "minecraft:enchanted_book"
+      },
+      {
+        "item": "minecraft:written_book"
+      },
+      {
+        "item": "minecraft:writable_book"
+      },
+      {
+        "item": "tfc:unrefined_paper"
+      }
+    ],
+    "duration": 150,
+    "temperature": 199,
+    "purity": 0.7
+}

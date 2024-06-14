@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/log/sycamore"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_log/sycamore"
+      }
+    ],
+    "processingTime": 50
+}

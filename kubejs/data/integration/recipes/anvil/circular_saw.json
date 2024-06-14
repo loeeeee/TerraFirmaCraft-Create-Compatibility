@@ -1,0 +1,15 @@
+{
+    "type": "tfc:anvil",
+    "input": {
+      "tag": "forge:sheets/wrought_iron"
+    },
+    "result": {
+      "item": "kubejs:circular_saw"
+    },
+    "tier": 3,
+    "rules": [
+      "punch_last",
+      "hit_not_last",
+      "punch_not_last"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:ore/normal_malachite"
+      },
+      {
+        "tag": "tfc:hammers"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/malachite",
+        "count": 5
+      }
+    ],
+    "keepHeldItem": true
+}

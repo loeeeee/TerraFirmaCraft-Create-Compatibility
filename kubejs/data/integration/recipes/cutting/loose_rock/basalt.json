@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/basalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/basalt"
+    }
+  ],
+  "processingTime": 25
+}

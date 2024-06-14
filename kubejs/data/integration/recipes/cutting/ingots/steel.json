@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/ingot/steel"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/rod/steel",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

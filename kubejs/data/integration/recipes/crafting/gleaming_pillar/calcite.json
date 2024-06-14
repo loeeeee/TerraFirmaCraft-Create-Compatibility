@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "create:layered_calcite"
+    }
+  },
+  "result": {
+    "item": "create:calcite_pillar",
+    "count": 2
+  }
+}

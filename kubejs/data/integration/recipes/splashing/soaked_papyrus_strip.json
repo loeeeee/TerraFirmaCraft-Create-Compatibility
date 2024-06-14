@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "tag": "integration:unprocessed_paper"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:soaked_papyrus_strip"
+      }
+    ],
+    "processingTime": 100
+}

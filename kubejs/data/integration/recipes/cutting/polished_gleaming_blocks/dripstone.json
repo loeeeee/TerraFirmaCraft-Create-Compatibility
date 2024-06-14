@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_dripstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:layered_dripstone"
+    }
+  ],
+  "processingTime": 100
+}

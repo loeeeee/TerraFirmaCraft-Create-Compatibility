@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/hickory"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/hickory",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

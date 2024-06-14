@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "NGN",
+      "NBN",
+      " N "
+    ],
+    "key": {
+      "G": {
+        "item": "create:shaft"
+      },
+      "B": {
+        "item": "tfc:bellows"
+      },
+      "N": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "create:netherite_backtank"
+    }
+}

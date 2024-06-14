@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_crucible"
+    },
+    "result": "tfc:crucible",
+    "experience": 0.0,
+    "cookingtime": 600
+}

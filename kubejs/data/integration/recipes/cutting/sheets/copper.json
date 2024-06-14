@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/copper"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/copper",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

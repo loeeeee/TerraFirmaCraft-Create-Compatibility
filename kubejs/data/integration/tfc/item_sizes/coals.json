@@ -1,0 +1,12 @@
+{
+    "ingredient": [
+        {
+            "item": "tfc:ore/lignite"
+        },
+        {
+            "item": "tfc:ore/bituminous_coal"
+        }
+    ],
+    "size": "very_small",
+    "weight": "very_light"
+}

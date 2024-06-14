@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "fluid": "tfc:metal/steel",
+        "nbt": {},
+        "amount": 200
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/steel"
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst",
+        "chance": 0.5
+      }
+    ]
+}

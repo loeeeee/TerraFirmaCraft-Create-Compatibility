@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "minecraft:clay"
+      },
+      {
+        "tag": "integration:tool_heads/mace"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ceramic/unfired_mace_head_mold"
+      }
+    ],
+    "keepHeldItem": true
+}

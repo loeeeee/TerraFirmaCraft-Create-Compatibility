@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "create:cut_ochrum"
+    }
+  },
+  "result": {
+    "item": "create:cut_ochrum_bricks",
+    "count": 4
+  }
+}

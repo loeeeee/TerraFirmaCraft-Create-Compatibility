@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/diorite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/diorite",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

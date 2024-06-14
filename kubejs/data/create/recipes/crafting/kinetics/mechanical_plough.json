@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ASA",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "create:andesite_alloy"
+      },
+      "S": {
+        "item": "tfc:metal/sheet/cast_iron"
+      },
+      "C": {
+        "item": "create:andesite_casing"
+      }
+    },
+    "result": {
+      "item": "create:mechanical_plough"
+    }
+}

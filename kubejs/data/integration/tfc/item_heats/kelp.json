@@ -1,0 +1,11 @@
+{
+    "ingredient": [
+      {
+        "item": "tfc:plant/leafy_kelp"
+      },
+      {
+        "item": "tfc:plant/winged_kelp"
+      }
+    ],
+    "heat_capacity": 1.0
+}

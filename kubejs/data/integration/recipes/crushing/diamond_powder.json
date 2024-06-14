@@ -1,0 +1,14 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:powder/diamond"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/graphite"
+      }
+    ],
+    "processingTime": 50
+}

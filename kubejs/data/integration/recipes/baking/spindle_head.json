@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_spindle_head"
+    },
+    "result": "tfc:ceramic/spindle_head",
+    "experience": 0.0,
+    "cookingtime": 150
+}

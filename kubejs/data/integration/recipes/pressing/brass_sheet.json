@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_ingot/brass"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/brass"
+      }
+    ]
+}

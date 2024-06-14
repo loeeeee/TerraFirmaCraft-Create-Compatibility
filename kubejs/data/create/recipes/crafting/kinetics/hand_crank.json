@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "LLL",
+      "  S"
+    ],
+    "key": {
+      "L": {
+        "tag": "tfc:lumber"
+      },
+      "S": {
+        "item": "create:shaft"
+      }
+    },
+    "result": {
+      "item": "create:hand_crank"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "CC",
+      "CC"
+    ],
+    "key": {
+      "C": {
+        "item": "tfc:metal/chain/bronze"
+      }
+    },
+    "result": {
+      "item": "kubejs:bronze_chain_mesh"
+    }
+}

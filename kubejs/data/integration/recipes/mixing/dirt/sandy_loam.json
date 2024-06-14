@@ -1,0 +1,46 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "tfc:powder/saltpeter"
+      },
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 500
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:dirt/sandy_loam",
+        "count": 8
+      }
+    ]
+  }

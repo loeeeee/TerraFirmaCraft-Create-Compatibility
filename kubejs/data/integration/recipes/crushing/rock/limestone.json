@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/limestone"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/limestone",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

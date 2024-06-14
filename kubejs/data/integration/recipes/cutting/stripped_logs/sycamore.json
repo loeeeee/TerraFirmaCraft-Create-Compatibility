@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/stripped_log/sycamore"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/sycamore",
+        "count": 8
+      }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " R ",
+      "RAR",
+      " R "
+    ],
+    "key": {
+      "R": {
+        "item": "tfc:metal/rod/copper"
+      },
+      "A": {
+        "item": "create:andesite_alloy"
+      }
+    },
+    "result": {
+      "item": "create:copper_valve_handle"
+    }
+}

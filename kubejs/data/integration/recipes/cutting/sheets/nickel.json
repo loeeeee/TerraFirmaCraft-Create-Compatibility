@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/nickel"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/nickel",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

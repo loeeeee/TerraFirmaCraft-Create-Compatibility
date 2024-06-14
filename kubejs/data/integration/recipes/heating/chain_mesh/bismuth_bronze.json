@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "kubejs:bismuth_bronze_chain_mesh"
+    },
+    "result_fluid": {
+        "fluid": "tfc:metal/bismuth_bronze",
+        "amount": 25
+    },
+    "temperature": 985
+}

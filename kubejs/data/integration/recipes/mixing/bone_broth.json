@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:bone",
+      "count": 2
+    },
+    {
+      "tag": "tfc:foods/vegetables",
+      "count": 2
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 200
+    },
+    {
+      "fluid": "minecraft:milk",
+      "amount": 200
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:bone_broth"
+    }
+  ],
+  "processingTime": 100,
+  "heatRequirement": "heated"
+}

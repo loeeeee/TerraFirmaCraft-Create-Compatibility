@@ -1,0 +1,15 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:food/oat_flour"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:food/oat_dough",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+}

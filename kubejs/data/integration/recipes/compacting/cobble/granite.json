@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:dirt/silt"
+      },
+      {
+        "item": "tfc:dirt/silt"
+      },
+      {
+        "item": "tfc:dirt/silt"
+      },
+      {
+        "item": "tfc:dirt/silt"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/cobble/granite",
+        "count": 4
+      }
+    ],
+    "heatRequirement": "heated"
+}

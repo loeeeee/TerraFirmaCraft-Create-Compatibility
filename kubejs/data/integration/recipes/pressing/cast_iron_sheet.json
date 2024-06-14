@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_ingot/cast_iron"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/cast_iron"
+      }
+    ]
+}

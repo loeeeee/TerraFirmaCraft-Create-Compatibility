@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/stripped_wood/kapok"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/kapok",
+        "count": 8
+      }
+    ],
+    "processingTime": 50
+}

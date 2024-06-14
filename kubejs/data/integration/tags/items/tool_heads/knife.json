@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:metal/knife_blade/copper",
+        "tfc:metal/knife_blade/bronze",
+        "tfc:metal/knife_blade/bismuth_bronze",
+        "tfc:metal/knife_blade/black_bronze",
+        "tfc:metal/knife_blade/wrought_iron",
+        "tfc:metal/knife_blade/steel",
+        "tfc:metal/knife_blade/black_steel",
+        "tfc:metal/knife_blade/blue_steel",
+        "tfc:metal/knife_blade/red_steel"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "A A",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "create:andesite_alloy"
+      },
+      "C": {
+        "item": "tfc:metal/ingot/cast_iron"
+      }
+    },
+    "result": {
+      "item": "create:chute",
+      "count": 4
+    }
+}

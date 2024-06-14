@@ -1,0 +1,52 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "tag": "forge:sand"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "tag": "integration:ash"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 500
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:dirt/silty_loam",
+        "count": 8
+      }
+    ]
+  }

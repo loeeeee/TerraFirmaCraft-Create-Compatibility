@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/gabbro"
+  },
+  "result": "tfc:rock/raw/gabbro",
+  "experience": 0.0,
+  "cooking_time": 400
+}

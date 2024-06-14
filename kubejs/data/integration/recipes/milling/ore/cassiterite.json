@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/small_cassiterite"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:crushed_tin_ore",
+        "chance": 0.2
+      }
+    ],
+    "processingTime": 100
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RI",
+      "RC",
+      " S"
+    ],
+    "key": {
+      "R": {
+        "item": "tfc:metal/rod/gold"
+      },
+      "I": {
+        "item": "tfc:metal/ingot/gold"
+      },
+      "C": {
+        "item": "create:cogwheel"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "create:wrench"
+    }
+}

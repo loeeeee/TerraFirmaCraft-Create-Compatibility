@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/topaz"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:gem/topaz"
+      }
+    ],
+    "processingTime": 50
+}

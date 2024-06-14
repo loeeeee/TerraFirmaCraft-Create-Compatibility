@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "tfc:raw_sandstone/black"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:smooth_sandstone/black"
+    }
+  ],
+  "keepHeldItem": true
+}

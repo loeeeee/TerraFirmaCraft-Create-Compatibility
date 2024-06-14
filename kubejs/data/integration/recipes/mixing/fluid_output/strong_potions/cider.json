@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "kubejs:potion_cider",
+      "amount": 100
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:potion_strong_cider",
+      "amount": 40
+    }
+  ],
+  "processingTime": 200,
+  "heatRequirement": "superheated"
+}

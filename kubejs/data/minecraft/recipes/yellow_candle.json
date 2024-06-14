@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "G",
+      "C"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "C": {
+        "item": "tfc:candle/yellow"
+      }
+    },
+    "result": {
+      "item": "minecraft:yellow_candle"
+    }
+}

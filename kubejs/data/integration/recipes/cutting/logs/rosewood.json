@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/log/rosewood"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_log/rosewood"
+      }
+    ],
+    "processingTime": 50
+}

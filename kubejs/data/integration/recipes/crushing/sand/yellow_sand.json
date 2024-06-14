@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:sand/yellow"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:glowstone_dust",
+        "chance": 0.1
+      }
+    ],
+    "processingTime": 250
+}

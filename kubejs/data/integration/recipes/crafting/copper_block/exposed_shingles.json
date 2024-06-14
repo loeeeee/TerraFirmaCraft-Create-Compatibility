@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "C",
+      "C"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:exposed_copper"
+      }
+    },
+    "result": {
+      "item": "create:exposed_copper_shingles",
+      "count": 2
+    }
+}

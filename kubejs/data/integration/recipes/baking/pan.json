@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_pan"
+    },
+    "result": "tfc:pan/empty",
+    "experience": 0.0,
+    "cookingtime": 150
+}

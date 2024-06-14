@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:dirt/loam"
+      },
+      {
+        "item": "tfc:dirt/silt"
+      },
+      {
+        "item": "tfc:dirt/sandy_loam"
+      },
+      {
+        "item": "tfc:dirt/sandy_loam"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/cobble/quartzite",
+        "count": 4
+      }
+    ],
+    "heatRequirement": "heated"
+}

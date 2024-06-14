@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:rock/loose/andesite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:brick/andesite"
+      }
+    ],
+    "processingTime": 25
+}

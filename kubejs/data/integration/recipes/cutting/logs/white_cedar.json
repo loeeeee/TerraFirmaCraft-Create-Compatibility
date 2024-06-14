@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/log/white_cedar"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_log/white_cedar"
+      }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:peat"
+      },
+      {
+        "item": "minecraft:charcoal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:coal_block"
+      }
+    ]
+}

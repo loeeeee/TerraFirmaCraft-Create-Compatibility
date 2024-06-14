@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      "   R ",
+      "  R R",
+      " R R ",
+      "R R  ",
+      " R   "
+    ],
+    "key": {
+      "R": {
+        "item": "tfc:metal/rod/red_steel"
+      }
+    },
+    "result": {
+      "item": "tfc:metal/tuyere/red_steel"
+    },
+    "acceptMirrored": false
+}

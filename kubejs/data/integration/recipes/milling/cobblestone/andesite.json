@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/andesite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/gravel/andesite"
+      }
+    ],
+    "processingTime": 250
+}

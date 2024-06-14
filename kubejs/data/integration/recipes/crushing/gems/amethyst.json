@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:ore/amethyst"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/amethyst",
+        "count": 4
+      }
+    ],
+    "processingTime": 100
+}

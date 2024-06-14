@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " S ",
+      "MCM",
+      " P "
+    ],
+    "key": {
+      "S": {
+        "tag": "minecraft:wooden_slabs"
+      },
+      "M": {
+        "item": "tfc:brass_mechanisms"
+      },
+      "C": {
+        "item": "create:andesite_casing" 
+      },
+      "P": {
+        "item": "create:piston_extension_pole"
+      }
+    },
+    "result": {
+      "item": "create:mechanical_piston"
+    }
+}

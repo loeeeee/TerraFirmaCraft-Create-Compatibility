@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/sulfur"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/sulfur",
+        "count": 4
+      }
+    ],
+    "processingTime": 100
+}

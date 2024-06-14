@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:fire_clay"
+      },
+      {
+        "item": "tfc:ceramic/ingot_mold"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ceramic/unfired_fire_brick"
+      }
+    ],
+    "keepHeldItem": true
+}

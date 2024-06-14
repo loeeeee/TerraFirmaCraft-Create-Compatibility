@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/basalt"
+  },
+  "result": "tfc:rock/raw/basalt",
+  "experience": 0.0,
+  "cooking_time": 400
+}

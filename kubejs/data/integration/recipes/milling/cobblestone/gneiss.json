@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/gneiss"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/gravel/gneiss"
+      }
+    ],
+    "processingTime": 250
+}

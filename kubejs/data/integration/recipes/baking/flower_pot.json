@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_flower_pot"
+    },
+    "result": "minecraft:flower_pot",
+    "experience": 0.0,
+    "cookingtime": 150
+}

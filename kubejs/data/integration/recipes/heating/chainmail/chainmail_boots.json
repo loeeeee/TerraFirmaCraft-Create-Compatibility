@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "minecraft:chainmail_boots"
+    },
+    "result_fluid": {
+        "fluid": "tfc:metal/cast_iron",
+        "amount": 100
+    },
+    "temperature": 1535
+}

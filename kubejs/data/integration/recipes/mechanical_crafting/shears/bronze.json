@@ -1,0 +1,15 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      "NN"
+    ],
+    "key": {
+      "N": {
+        "item": "tfc:metal/knife_blade/bronze"
+      }
+    },
+    "result": {
+      "item": "tfc:metal/shears/bronze"
+    },
+    "acceptMirrored": false
+}

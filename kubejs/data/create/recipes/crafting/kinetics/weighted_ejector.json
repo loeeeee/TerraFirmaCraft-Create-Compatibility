@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " S",
+      "CD"
+    ],
+    "key": {
+      "S": {
+        "item": "tfc:metal/sheet/gold"
+      },
+      "D": {
+        "item": "create:depot"
+      },
+      "C": {
+        "item": "create:cogwheel"
+      }
+    },
+    "result": {
+      "item": "create:weighted_ejector"
+    }
+}

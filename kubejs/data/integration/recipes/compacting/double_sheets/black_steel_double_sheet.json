@@ -1,0 +1,20 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/black_steel"
+      },
+      {
+        "item": "tfc:metal/sheet/black_steel"
+      },
+      {
+        "item": "tfc:powder/flux"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/double_sheet/black_steel"
+      }
+    ],
+    "heatRequirement": "heated"
+}

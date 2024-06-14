@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "L",
+      "S",
+      "L"
+    ],
+    "key": {
+      "S": {
+        "item": "create:shaft"
+      },
+      "L": {
+        "tag": "tfc:lumber"
+      }
+    },
+    "result": {
+      "item": "create:piston_extension_pole"
+    }
+}

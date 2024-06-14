@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "minecraft:weathered_cut_copper_slab"
+      },
+      {
+        "fluid": "tfc:tallow",
+        "nbt": {},
+        "amount": 20
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:waxed_weathered_cut_copper_slab"
+      }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_diorite"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:layered_diorite"
+    }
+  ],
+  "processingTime": 100
+}

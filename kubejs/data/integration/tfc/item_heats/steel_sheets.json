@@ -1,0 +1,19 @@
+{
+    "ingredient": [
+      {
+        "item": "kubejs:pig_iron_sheet"
+      },
+      {
+        "item": "kubejs:weak_steel_sheet"
+      },
+      {
+        "item": "kubejs:weak_blue_steel_sheet"
+      },
+      {
+        "item": "kubejs:weak_red_steel_sheet"
+      }
+    ],
+    "heat_capacity": 5.714,
+    "forging_temperature": 921,
+    "welding_temperature": 1228
+}

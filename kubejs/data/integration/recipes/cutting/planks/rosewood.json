@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/rosewood"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/rosewood",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

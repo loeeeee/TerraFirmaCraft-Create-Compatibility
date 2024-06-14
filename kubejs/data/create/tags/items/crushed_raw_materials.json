@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "kubejs:crushed_bismuth_ore",
+      "kubejs:crushed_nickel_ore",
+      "kubejs:crushed_silver_ore",
+      "kubejs:crushed_tin_ore"
+    ]
+}

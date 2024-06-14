@@ -1,0 +1,30 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "tfc:powder/salt"
+      },
+      {
+        "item": "tfc:powder/salt"
+      },
+      {
+        "item": "tfc:powder/salt"
+      },
+      {
+        "item": "tfc:powder/salt"
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ore/halite"
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst",
+        "chance": 0.5
+      }
+    ],
+    "heatRequirement": "heated"
+}

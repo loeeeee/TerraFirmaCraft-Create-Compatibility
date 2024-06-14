@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "create:cut_dripstone_bricks"
+    }
+  },
+  "result": {
+    "item": "create:small_dripstone_bricks",
+    "count": 4
+  }
+}

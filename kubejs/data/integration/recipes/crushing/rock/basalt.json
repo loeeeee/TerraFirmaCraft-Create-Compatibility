@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/basalt"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/basalt",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

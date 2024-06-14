@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/dolomite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/dolomite",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

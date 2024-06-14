@@ -1,0 +1,18 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:medium_sheepskin_hide"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:medium_raw_hide"
+      },
+      {
+        "item": "tfc:wool",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+}

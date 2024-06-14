@@ -1,0 +1,18 @@
+{
+    "type": "tfc:damage_inputs_shapeless_crafting",
+    "recipe": {
+      "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+          "item": "tfc:ore/poor_limonite"
+        },
+        {
+          "tag": "tfc:hammers"
+        }
+      ],
+      "result": {
+        "item": "tfc:powder/limonite",
+        "count": 3
+      }
+    }
+}

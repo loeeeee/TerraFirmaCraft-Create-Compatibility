@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "kubejs:crushed_nickel_ore"
+    },
+    "result_fluid": {
+        "fluid": "tfc:metal/nickel",
+        "amount": 100
+    },
+    "temperature": 1453
+}

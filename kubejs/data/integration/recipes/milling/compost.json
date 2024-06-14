@@ -1,0 +1,18 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:compost"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/saltpeter"
+      },
+      {
+        "item": "minecraft:bone_meal",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "create:wrench",
+      "create:potato_cannon",
+      "create:extendo_grip"
+    ]
+}

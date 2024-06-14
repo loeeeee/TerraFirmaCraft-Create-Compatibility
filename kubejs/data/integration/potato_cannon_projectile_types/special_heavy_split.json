@@ -1,0 +1,11 @@
+{
+    "items": [
+      "minecraft:pumpkin_pie"
+    ],
+    "damage": 7,
+    "reload_ticks": 15,
+    "knockback": 2,
+    "velocity_multiplier": 0.8,
+    "sound_pitch": 0.8,
+    "split": 4
+}

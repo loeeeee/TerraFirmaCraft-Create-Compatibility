@@ -1,0 +1,15 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:food/rye_flour"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:food/rye_dough",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+}

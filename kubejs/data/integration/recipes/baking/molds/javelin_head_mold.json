@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_javelin_head_mold"
+    },
+    "result": "tfc:ceramic/javelin_head_mold",
+    "experience": 0.0,
+    "cookingtime": 400
+}

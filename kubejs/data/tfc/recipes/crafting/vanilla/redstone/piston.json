@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "LLL",
+      "CPC",
+      "CMC"
+    ],
+    "key": {
+      "L": {
+        "tag": "tfc:lumber"
+      },
+      "P": {
+        "item": "create:piston_extension_pole"
+      },
+      "M": {
+        "item": "tfc:brass_mechanisms"
+      },
+      "C": {
+        "tag": "forge:cobblestone"
+      }
+    },
+    "result": {
+      "item": "minecraft:piston"
+    }
+}

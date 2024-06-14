@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "P",
+      "W",
+      "B"
+    ],
+    "key": {
+      "P": {
+        "item": "create:piston_extension_pole"
+      },
+      "W": {
+        "tag": "minecraft:planks" 
+      },
+      "B": {
+        "item": "create:brass_hand"
+      }
+    },
+    "result": {
+      "item": "create:deployer"
+    }
+}

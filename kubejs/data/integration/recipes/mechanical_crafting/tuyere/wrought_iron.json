@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      "   R ",
+      "  R R",
+      " R R ",
+      "R R  ",
+      " R   "
+    ],
+    "key": {
+      "R": {
+        "item": "tfc:metal/rod/wrought_iron"
+      }
+    },
+    "result": {
+      "item": "tfc:metal/tuyere/wrought_iron"
+    },
+    "acceptMirrored": false
+}

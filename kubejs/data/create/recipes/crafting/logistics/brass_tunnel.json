@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "BB",
+      "KK"
+    ],
+    "key": {
+      "B": {
+        "item": "tfc:metal/ingot/brass"
+      },
+      "K": {
+        "item": "minecraft:dried_kelp"
+      }
+    },
+    "result": {
+      "item": "create:brass_tunnel",
+      "count": 2
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/small_native_silver"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:crushed_silver_ore",
+        "chance": 0.2
+      }
+    ],
+    "processingTime": 100
+}

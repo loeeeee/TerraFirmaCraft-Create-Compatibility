@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:tiled_glass"
+      }
+    ],
+    "processingTime": 50
+}

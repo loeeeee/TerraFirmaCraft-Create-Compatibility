@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/stripped_wood/douglas_fir"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/douglas_fir",
+        "count": 8
+      }
+    ],
+    "processingTime": 50
+}

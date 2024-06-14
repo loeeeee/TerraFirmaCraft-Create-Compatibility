@@ -1,0 +1,33 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "kubejs:potion_beer",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:splash_potion",
+      "nbt":
+      {
+        "Potion": "minecraft:water",
+        "display":
+        {
+          "Name": "{\"text\":\"Formulated Beer Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects":[
+          {
+            "Id": 1,
+            "Amplifier": 0,
+            "Duration": 3600
+          }
+        ],
+        "CustomPotionColor": 12820022
+      }
+    }
+  ]
+}

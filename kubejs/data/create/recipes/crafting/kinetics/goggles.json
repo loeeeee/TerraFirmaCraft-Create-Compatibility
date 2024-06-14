@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " L ",
+      "PSP"
+    ],
+    "key": {
+      "L": {
+        "item": "minecraft:leather"
+      },
+      "P": {
+        "item": "minecraft:glass_pane"
+      },
+      "S": {
+        "item": "tfc:metal/sheet/brass"
+      }
+    },
+    "result": {
+      "item": "create:goggles"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "create:exposed_copper_tiles"
+      },
+      {
+        "fluid": "tfc:tallow",
+        "nbt": {},
+        "amount": 40
+      }
+    ],
+    "results": [
+      {
+        "item": "create:waxed_exposed_copper_tiles"
+      }
+    ]
+}

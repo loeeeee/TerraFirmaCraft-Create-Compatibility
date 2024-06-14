@@ -1,0 +1,22 @@
+{
+  "type": "tfc:damage_inputs_shaped_crafting",
+  "recipe": { 
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RC",
+      "R "
+    ],
+    "key": {
+      "R": {
+        "tag": "forge:stone"
+      },
+      "C": {
+        "tag": "tfc:chisels"
+      }
+    },
+    "result": {
+      "item": "create:shaft",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/schist"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/schist",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

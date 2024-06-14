@@ -1,0 +1,20 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/ingot/weak_red_steel"
+      },
+      {
+        "item": "tfc:metal/ingot/black_steel"
+      },
+      {
+        "item": "tfc:powder/flux"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/high_carbon_red_steel"
+      }
+    ],
+    "heatRequirement": "heated"
+}

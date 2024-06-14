@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/rhyolite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/rhyolite",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

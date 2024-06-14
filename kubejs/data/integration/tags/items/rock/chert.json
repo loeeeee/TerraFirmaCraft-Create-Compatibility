@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:rock/cobble/chert",
+        "tfc:rock/raw/chert",
+        "tfc:rock/hardened/chert"
+    ]
+}

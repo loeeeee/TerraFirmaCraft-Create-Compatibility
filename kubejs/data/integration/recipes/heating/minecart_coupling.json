@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "create:minecart_coupling"
+    },
+    "result_fluid": {
+        "fluid": "tfc:metal/nickel",
+        "amount": 125
+    },
+    "temperature": 1453
+}

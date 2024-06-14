@@ -1,0 +1,14 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "tag": "integration:yields_white_sand"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:sand/white"
+      }
+    ],
+    "processingTime": 250
+  }

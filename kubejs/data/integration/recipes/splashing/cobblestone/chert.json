@@ -1,0 +1,23 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/chert"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ore/small_bismuthinite",
+        "chance": 0.06
+      },
+      {
+        "item": "tfc:ore/small_limonite",
+        "chance": 0.08
+      },
+      {
+        "item": "tfc:ore/small_magnetite",
+        "chance": 0.06
+      }
+    ],
+    "processingTime": 150
+}

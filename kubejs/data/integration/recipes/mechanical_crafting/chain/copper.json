@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      "C",
+      "C",
+      "C",
+      "C"
+    ],
+    "key": {
+      "C": {
+        "item": "tfc:metal/rod/copper"
+      }
+    },
+    "result": {
+      "item": "tfc:metal/chain/copper",
+      "count": 32
+    },
+    "acceptMirrored": false
+}

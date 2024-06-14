@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/log/aspen"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_log/aspen"
+      }
+    ],
+    "processingTime": 50
+}

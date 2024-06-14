@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "S",
+      "G",
+      "S"
+    ],
+    "key": {
+      "S": {
+        "item": "tfc:metal/sheet/copper"
+      },
+      "G": {
+        "item": "minecraft:glass"
+      }
+    },
+    "result": {
+      "item": "create:fluid_tank",
+      "count": 2
+    }
+}

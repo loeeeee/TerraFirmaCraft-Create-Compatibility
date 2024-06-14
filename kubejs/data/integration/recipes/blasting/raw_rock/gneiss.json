@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/gneiss"
+  },
+  "result": "tfc:rock/raw/gneiss",
+  "experience": 0.0,
+  "cooking_time": 400
+}

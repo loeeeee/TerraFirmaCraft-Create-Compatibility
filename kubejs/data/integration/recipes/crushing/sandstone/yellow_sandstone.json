@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:raw_sandstone/yellow"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:sand/yellow",
+        "count": 1
+      }
+    ],
+    "processingTime": 250
+}

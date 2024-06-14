@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_sheet/nickel"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/nickel",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

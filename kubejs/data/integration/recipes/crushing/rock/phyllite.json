@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/phyllite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/phyllite",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

@@ -1,0 +1,31 @@
+{
+    "item.minecraft.chainmail_helmet": "Wrought Iron Chainmail Coif",
+    "item.minecraft.chainmail_chestplate": "Wrought Iron Chainmail Hauberk",
+    "item.minecraft.chainmail_leggings": "Wrought Iron Chainmail Chausses",
+    "item.minecraft.chainmail_boots": "Wrought Iron Chainmail Sabatons",
+    "item.minecraft.netherite_ingot": "Industrial Iron Ingot",
+    "item.minecraft.netherite_leggings": "Industrial Iron Greaves",
+    "item.minecraft.netherite_boots": "Industrial Iron Boots",
+
+    "block.minecraft.torch": "Everlasting Torch",
+    "block.minecraft.candle": "Everlasting Candle",
+    "block.minecraft.white_candle": "Everlasting White Candle",
+    "block.minecraft.orange_candle": "Everlasting Orange Candle",
+    "block.minecraft.magenta_candle": "Everlasting Magenta Candle",
+    "block.minecraft.light_blue_candle": "Everlasting Light Blue Candle",
+    "block.minecraft.yellow_candle": "Everlasting Yellow Candle",
+    "block.minecraft.lime_candle": "Everlasting Lime Candle",
+    "block.minecraft.pink_candle": "Everlasting Pink Candle",
+    "block.minecraft.gray_candle": "Everlasting Gray Candle",
+    "block.minecraft.light_gray_candle": "Everlasting Light Gray Candle",
+    "block.minecraft.cyan_candle": "Everlasting Cyan Candle",
+    "block.minecraft.purple_candle": "Everlasting Purple Candle",
+    "block.minecraft.blue_candle": "Everlasting Blue Candle",
+    "block.minecraft.brown_candle": "Everlasting Brown Candle",
+    "block.minecraft.green_candle": "Everlasting Green Candle",
+    "block.minecraft.red_candle": "Everlasting Red Candle",
+    "block.minecraft.black_candle": "Everlasting Black Candle",
+    
+    "subtitles.entity.blaze.ambient": "",
+    "subtitles.entity.blaze.shoot": "Fire rushes"
+}

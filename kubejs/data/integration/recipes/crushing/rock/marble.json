@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/marble"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/marble",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

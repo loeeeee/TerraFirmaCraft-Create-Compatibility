@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "C",
+      "C"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:waxed_copper_block"
+      }
+    },
+    "result": {
+      "item": "create:waxed_copper_shingles",
+      "count": 2
+    }
+}

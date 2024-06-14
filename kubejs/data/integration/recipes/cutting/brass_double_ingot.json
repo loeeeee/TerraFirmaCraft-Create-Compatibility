@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_ingot/brass"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:brass_hand"
+      }
+    ],
+    "processingTime": 200
+}

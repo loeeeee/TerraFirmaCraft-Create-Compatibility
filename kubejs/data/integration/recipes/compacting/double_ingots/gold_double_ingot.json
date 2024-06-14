@@ -1,0 +1,20 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/ingot/gold"
+      },
+      {
+        "item": "tfc:metal/ingot/gold"
+      },
+      {
+        "item": "tfc:powder/flux"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/double_ingot/gold"
+      }
+    ],
+    "heatRequirement": "heated"
+}

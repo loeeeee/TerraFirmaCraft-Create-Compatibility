@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:sand/white"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/saltpeter",
+        "chance": 0.4
+      }
+    ],
+    "processingTime": 250
+}

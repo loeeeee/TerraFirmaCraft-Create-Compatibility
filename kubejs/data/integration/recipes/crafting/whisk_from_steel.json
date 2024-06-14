@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RR",
+      "IR"
+    ],
+    "key": {
+      "R": {
+        "item": "tfc:metal/rod/steel"
+      },
+      "I": {
+        "item": "tfc:metal/ingot/steel"
+      }
+    },
+    "result": {
+      "item": "create:whisk",
+      "count": 2
+    }
+}

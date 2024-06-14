@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "fluid": "tfc:metal/sterling_silver",
+        "nbt": {},
+        "amount": 200
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/sterling_silver"
+      },
+      {
+        "item": "kubejs:crystalisation_catalyst",
+        "chance": 0.5
+      }
+    ]
+}

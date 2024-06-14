@@ -1,0 +1,33 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "integration:ash"
+      },
+      {
+        "tag": "integration:ash"
+      },
+      {
+        "tag": "integration:ash"
+      },
+      {
+        "tag": "integration:ash"
+      },
+      {
+        "tag": "integration:ash"
+      },
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "fluid": "tfc:lye",
+        "amount": 1000
+      }
+    ],
+    "processingTime": 200,
+    "heatRequirement": "heated"
+}

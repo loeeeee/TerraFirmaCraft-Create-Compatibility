@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_strong_vodka",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:absorption",
+      "duration": 2400,
+      "amplifier": 1
+    }
+  ]
+}

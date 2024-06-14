@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "tfc:metal/rod/copper"
+      }
+    ],
+    "result": {
+      "item": "create:fluid_pipe"
+    }
+}

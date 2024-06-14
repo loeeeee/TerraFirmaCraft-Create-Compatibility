@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "item": "kubejs:weak_red_steel_sheet"
+    },
+    "result_fluid": {
+      "fluid": "tfc:metal/weak_red_steel",
+      "amount": 200
+    },
+    "temperature": 1540
+}

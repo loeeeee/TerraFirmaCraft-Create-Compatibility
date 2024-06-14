@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "LLL",
+      "ISI",
+      "IMI"
+    ],
+    "key": {
+      "L": {
+        "tag": "tfc:lumber"
+      },
+      "S": {
+        "item": "create:shaft"
+      },
+      "M": {
+        "item": "tfc:brass_mechanisms"
+      },
+      "I": {
+        "item": "tfc:metal/ingot/steel"
+      }
+    },
+    "result": {
+      "item": "create:windmill_bearing"
+    }
+}

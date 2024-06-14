@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "ingredients": [      
+      {
+        "tag": "tfc:foods/dough"
+      }, 
+      {
+        "item": "minecraft:egg"
+      }, 
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "tfc:pumpkin"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:pumpkin_pie"
+      }
+    ]
+}

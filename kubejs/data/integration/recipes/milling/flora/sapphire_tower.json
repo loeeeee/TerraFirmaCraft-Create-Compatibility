@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:plant/sapphire_tower"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:light_blue_dye",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:metal/ingot/high_carbon_steel"
+      },
+      {
+        "tag": "integration:tier_4_hammers"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/steel"
+      }
+    ],
+    "keepHeldItem": true
+}

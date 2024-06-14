@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/raw/granite"
+  },
+  "result": "tfc:rock/magma/granite",
+  "experience": 0.0,
+  "cooking_time": 400
+}

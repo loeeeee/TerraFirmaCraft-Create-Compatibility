@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "kubejs:copper_chain_mesh",
+        "kubejs:bronze_chain_mesh",
+        "kubejs:bismuth_bronze_chain_mesh",
+        "kubejs:black_bronze_chain_mesh",
+        "kubejs:wrought_iron_chain_mesh",
+        "kubejs:steel_chain_mesh",
+        "kubejs:black_steel_chain_mesh",
+        "kubejs:blue_steel_chain_mesh",
+        "kubejs:red_steel_chain_mesh"
+    ]
+}

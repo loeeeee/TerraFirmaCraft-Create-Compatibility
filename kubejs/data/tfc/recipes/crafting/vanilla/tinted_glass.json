@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " X ",
+      "XYX",
+      " X "
+    ],
+    "key": {
+      "X": {
+        "tag": "tfc:gem_powders"
+      },
+      "Y": {
+        "item": "minecraft:glass"
+      }
+    },
+    "result": {
+      "item": "minecraft:tinted_glass"
+    }
+}

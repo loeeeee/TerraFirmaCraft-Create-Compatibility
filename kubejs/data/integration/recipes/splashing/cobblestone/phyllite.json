@@ -1,0 +1,27 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/phyllite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ore/small_malachite",
+        "chance": 0.02
+      },
+      {
+        "item": "tfc:ore/small_native_silver",
+        "chance": 0.02
+      },
+      {
+        "item": "tfc:ore/small_sphalerite",
+        "chance": 0.09
+      },
+      {
+        "item": "tfc:ore/small_tetrahedrite",
+        "chance": 0.07
+      }
+    ],
+    "processingTime": 150
+}

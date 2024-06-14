@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "CJM",
+      " J ",
+      " S "
+    ],
+    "key": {
+      "C": {
+        "item": "create:andesite_casing" 
+      },
+      "M": {
+        "item": "tfc:brass_mechanisms" 
+      },
+      "J": {
+        "item": "tfc:jute_fiber" 
+      },
+      "S": {
+        "item": "tfc:metal/sheet/wrought_iron"
+      }
+    },
+    "result": {
+      "item": "create:rope_pulley"
+    }
+}

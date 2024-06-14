@@ -1,0 +1,15 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "tfc:stick_bunch"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:torch",
+        "count": 18
+      }
+    ],
+    "heatRequirement": "heated"
+}

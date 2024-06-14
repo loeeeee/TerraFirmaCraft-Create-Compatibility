@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "create:layered_crimsite"
+    }
+  },
+  "result": {
+    "item": "create:crimsite_pillar",
+    "count": 2
+  }
+}

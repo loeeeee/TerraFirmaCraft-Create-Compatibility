@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "K",
+      "C",
+      "W"
+    ],
+    "key": {
+      "K": {
+        "item": "create:cogwheel"
+      },
+      "C": {
+        "item": "create:brass_casing"
+      },
+      "W": {
+        "tag": "tfc:workbenches"
+      }
+    },
+    "result": {
+      "item": "create:mechanical_crafter",
+      "count": 2
+    }
+}

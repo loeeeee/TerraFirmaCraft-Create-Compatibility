@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:rock/cobble/diorite",
+        "tfc:rock/raw/diorite",
+        "tfc:rock/hardened/diorite"
+    ]
+}

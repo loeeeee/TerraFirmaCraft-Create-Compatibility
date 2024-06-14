@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:sand/red"
+      },
+      {
+        "item": "tfc:sand/red"
+      },
+      {
+        "item": "tfc:sand/red"
+      },
+      {
+        "item": "tfc:sand/red"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:raw_sandstone/red"
+      }
+    ]
+}

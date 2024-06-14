@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GGG",
+      "GDG",
+      "GGG"
+    ],
+    "key": {
+      "G": {
+        "item": "tfc:glue"
+      },
+      "D": {
+        "item": "minecraft:orange_dye"
+      }
+    },
+    "result": {
+      "item": "minecraft:honey_block"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:plant/leafy_kelp",
+        "tfc:plant/winged_kelp",
+        "tfc:plant/giant_kelp_flower"
+    ]
+}

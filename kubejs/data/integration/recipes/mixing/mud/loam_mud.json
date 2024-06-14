@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "tfc:dirt/loam"
+      },
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 125
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:mud/loam"
+      }
+    ],
+    "processingTime": 10
+}

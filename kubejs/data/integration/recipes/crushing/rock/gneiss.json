@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/gneiss"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/gneiss",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

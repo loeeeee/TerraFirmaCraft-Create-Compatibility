@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "kubejs:unknown_sheet"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:metal/ingot/unknown",
+      "count": 2
+    }
+  ],
+  "processingTime": 200
+}

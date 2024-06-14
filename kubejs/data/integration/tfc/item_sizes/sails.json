@@ -1,0 +1,12 @@
+{
+    "ingredient": [
+        {
+            "item": "create:white_sail"
+        },
+        {
+            "item": "create:sail_frame"
+        }
+    ],
+    "size": "small",
+    "weight": "very_light"
+}

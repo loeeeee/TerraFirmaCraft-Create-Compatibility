@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/wood/sequoia"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_wood/sequoia"
+      }
+    ],
+    "processingTime": 50
+}

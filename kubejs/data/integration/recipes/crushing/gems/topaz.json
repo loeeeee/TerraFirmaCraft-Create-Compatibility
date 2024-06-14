@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:ore/topaz"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/topaz",
+        "count": 4
+      }
+    ],
+    "processingTime": 100
+}

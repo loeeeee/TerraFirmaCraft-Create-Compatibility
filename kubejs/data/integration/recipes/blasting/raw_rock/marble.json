@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/marble"
+  },
+  "result": "tfc:rock/raw/marble",
+  "experience": 0.0,
+  "cooking_time": 400
+}

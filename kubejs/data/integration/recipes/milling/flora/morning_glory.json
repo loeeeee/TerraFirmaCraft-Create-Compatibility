@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "tfc:plant/morning_glory"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:magenta_dye",
+            "count": 2
+        }
+    ],
+    "processingTime": 50
+}

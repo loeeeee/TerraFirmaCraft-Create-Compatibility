@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "kubejs:weak_red_steel_sheet"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/weak_red_steel",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

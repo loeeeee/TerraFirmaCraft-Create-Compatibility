@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "item": "kubejs:unknown_sheet"
+    },
+    "result_fluid": {
+      "fluid": "tfc:metal/unknown",
+      "amount": 200
+    },
+    "temperature": 400
+}

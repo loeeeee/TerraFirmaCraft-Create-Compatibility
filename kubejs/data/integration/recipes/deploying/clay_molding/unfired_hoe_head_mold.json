@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "minecraft:clay"
+      },
+      {
+        "tag": "integration:tool_heads/hoe"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ceramic/unfired_hoe_head_mold"
+      }
+    ],
+    "keepHeldItem": true
+}

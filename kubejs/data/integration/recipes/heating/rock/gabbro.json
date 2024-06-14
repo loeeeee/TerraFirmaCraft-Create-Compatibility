@@ -1,0 +1,10 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "tag": "integration:rock/gabbro"
+    },
+    "result_item": {
+      "item": "tfc:rock/magma/gabbro"
+    },
+    "temperature": 1425
+}

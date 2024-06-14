@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:brick/conglomerate"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:rock/button/conglomerate"
+    }
+  ],
+  "processingTime": 25
+}

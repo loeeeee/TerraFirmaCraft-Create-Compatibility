@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/ruby"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:gem/ruby"
+      }
+    ],
+    "processingTime": 50
+}

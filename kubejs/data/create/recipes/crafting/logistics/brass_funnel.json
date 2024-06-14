@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "B",
+      "K"
+    ],
+    "key": {
+      "B": {
+        "item": "tfc:metal/ingot/brass"
+      },
+      "K": {
+        "item": "minecraft:dried_kelp"
+      }
+    },
+    "result": {
+      "item": "create:brass_funnel",
+      "count": 2
+    }
+}

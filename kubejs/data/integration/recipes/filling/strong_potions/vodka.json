@@ -1,0 +1,33 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "kubejs:potion_strong_vodka",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:splash_potion",
+      "nbt":
+      {
+        "Potion": "minecraft:water",
+        "display":
+        {
+          "Name": "{\"text\":\"Alchemical Vodka Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects":[
+          {
+            "Id": 22,
+            "Amplifier": 1,
+            "Duration": 1800
+          }
+        ],
+        "CustomPotionColor": 14474459
+      }
+    }
+  ]
+}

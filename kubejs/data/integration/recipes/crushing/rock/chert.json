@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/chert"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/chert",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

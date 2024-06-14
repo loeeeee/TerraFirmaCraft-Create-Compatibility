@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:metal/anvil/blue_steel"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/double_ingot/blue_steel",
+        "count": 7
+      }
+    ],
+    "processingTime": 3200
+}

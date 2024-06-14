@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:rock/gravel/andesite",
+        "tfc:rock/gravel/basalt",
+        "tfc:rock/gravel/dolomite",
+        "tfc:rock/gravel/shale"
+    ]
+}

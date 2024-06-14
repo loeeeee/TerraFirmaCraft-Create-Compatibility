@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:dirt/silty_loam"
+      },
+      {
+        "item": "tfc:dirt/silty_loam"
+      },
+      {
+        "item": "tfc:dirt/silt"
+      },
+      {
+        "item": "tfc:dirt/silt"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/cobble/dacite",
+        "count": 4
+      }
+    ],
+    "heatRequirement": "heated"
+}

@@ -1,0 +1,23 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/gneiss"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ore/small_native_silver",
+        "chance": 0.12
+      },
+      {
+        "item": "tfc:ore/small_sphalerite",
+        "chance": 0.04
+      },
+      {
+        "item": "tfc:ore/small_tetrahedrite",
+        "chance": 0.04
+      }
+    ],
+    "processingTime": 150
+}

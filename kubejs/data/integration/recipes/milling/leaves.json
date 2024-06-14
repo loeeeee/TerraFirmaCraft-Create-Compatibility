@@ -1,0 +1,18 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "tag": "minecraft:leaves"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:straw"
+      },
+      {
+        "item": "tfc:straw",
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 50
+}

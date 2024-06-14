@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/sycamore"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/sycamore",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

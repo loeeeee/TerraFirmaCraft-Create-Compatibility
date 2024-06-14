@@ -1,0 +1,14 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "tag": "integration:yields_black_sand"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:sand/black"
+      }
+    ],
+    "processingTime": 250
+  }

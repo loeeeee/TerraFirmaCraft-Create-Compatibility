@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/willow"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/willow",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

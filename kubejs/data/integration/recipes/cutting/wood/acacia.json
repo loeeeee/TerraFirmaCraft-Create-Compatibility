@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/wood/acacia"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_wood/acacia"
+      }
+    ],
+    "processingTime": 50
+}

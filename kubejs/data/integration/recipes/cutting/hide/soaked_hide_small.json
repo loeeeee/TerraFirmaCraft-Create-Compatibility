@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:small_soaked_hide"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:small_scraped_hide"
+      }
+    ],
+    "processingTime": 50
+}

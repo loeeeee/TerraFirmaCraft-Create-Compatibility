@@ -1,0 +1,11 @@
+{
+    "ingredient": [
+      {
+        "item": "create:metal_bracket"
+      },
+      {
+        "item": "create:metal_girder"
+      }
+    ],
+    "heat_capacity": 1.429
+}

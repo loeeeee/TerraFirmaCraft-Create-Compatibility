@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "tag": "integration:kelp"
+    },
+    "result": "minecraft:dried_kelp",
+    "experience": 0.0,
+    "cookingtime": 100
+}

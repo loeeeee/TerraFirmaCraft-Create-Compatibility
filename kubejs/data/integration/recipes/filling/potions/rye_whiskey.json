@@ -1,0 +1,33 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "kubejs:potion_rye_whiskey",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:splash_potion",
+      "nbt":
+      {
+        "Potion": "minecraft:water",
+        "display":
+        {
+          "Name": "{\"text\":\"Formulated Rye Whiskey Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects":[
+          {
+            "Id": 3,
+            "Amplifier": 0,
+            "Duration": 3600
+          }
+        ],
+        "CustomPotionColor": 13073744
+      }
+    }
+  ]
+}

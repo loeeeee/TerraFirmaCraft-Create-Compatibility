@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_knife_blade_mold"
+    },
+    "result": "tfc:ceramic/knife_blade_mold",
+    "experience": 0.0,
+    "cookingtime": 400
+}

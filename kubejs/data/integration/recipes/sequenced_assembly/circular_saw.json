@@ -1,0 +1,44 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "tfc:metal/ingot/steel"
+    },
+    "transitionalItem": {
+      "item": "kubejs:incomplete_circular_saw"
+    },
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "kubejs:incomplete_circular_saw"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:incomplete_circular_saw"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "kubejs:incomplete_circular_saw"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:incomplete_circular_saw"
+          }
+        ],
+        "processingTime": 200
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:circular_saw"
+      }
+    ],
+    "loops": 1
+}

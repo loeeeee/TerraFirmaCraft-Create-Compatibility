@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/sapphire"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:gem/sapphire"
+      }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_rum",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:strength",
+      "duration": 4800,
+      "amplifier": 0
+    }
+  ]
+}

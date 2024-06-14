@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/wood/birch"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_wood/birch"
+      }
+    ],
+    "processingTime": 50
+}

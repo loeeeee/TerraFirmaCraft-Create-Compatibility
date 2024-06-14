@@ -1,0 +1,20 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/ingot/nickel"
+      },
+      {
+        "item": "tfc:metal/ingot/nickel"
+      },
+      {
+        "item": "tfc:powder/flux"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/double_ingot/nickel"
+      }
+    ],
+    "heatRequirement": "heated"
+}

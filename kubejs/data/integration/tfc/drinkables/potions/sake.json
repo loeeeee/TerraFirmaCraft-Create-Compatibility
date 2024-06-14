@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_sake",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:regeneration",
+      "duration": 4800,
+      "amplifier": 0
+    }
+  ]
+}

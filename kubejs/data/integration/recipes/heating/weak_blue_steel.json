@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "item": "kubejs:weak_blue_steel_sheet"
+    },
+    "result_fluid": {
+      "fluid": "tfc:metal/weak_blue_steel",
+      "amount": 200
+    },
+    "temperature": 1540
+}

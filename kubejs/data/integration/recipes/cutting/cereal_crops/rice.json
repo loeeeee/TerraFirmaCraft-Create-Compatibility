@@ -1,0 +1,17 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:food/rice"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:food/rice_grain"
+      },
+      {
+        "item": "tfc:straw"
+      }
+    ],
+    "processingTime": 25
+}

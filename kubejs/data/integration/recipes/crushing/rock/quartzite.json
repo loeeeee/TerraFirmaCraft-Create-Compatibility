@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/quartzite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/quartzite",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

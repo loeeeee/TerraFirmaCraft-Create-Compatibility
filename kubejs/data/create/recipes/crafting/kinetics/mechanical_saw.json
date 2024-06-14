@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "S",
+      "C"
+    ],
+    "key": {
+      "S": {
+        "item": "kubejs:circular_saw"
+      },
+      "C": {
+        "item": "create:andesite_casing"
+      }
+    },
+    "result": {
+      "item": "create:mechanical_saw"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_jug"
+    },
+    "result": "tfc:ceramic/jug",
+    "experience": 0.0,
+    "cookingtime": 400
+}

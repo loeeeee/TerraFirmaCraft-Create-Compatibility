@@ -1,0 +1,10 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "tag": "integration:kelp"
+    },
+    "result_item": {
+      "item": "minecraft:dried_kelp"
+    },
+    "temperature": 200
+}

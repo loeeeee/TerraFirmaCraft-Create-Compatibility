@@ -1,0 +1,52 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "tfc:metal/ingot/steel"
+  },
+  "transitionalItem": {
+    "item": "tfc:metal/ingot/steel"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "tfc:metal/ingot/steel"
+        },
+        {
+          "fluid": "kubejs:solder",
+          "nbt": {},
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "tfc:metal/ingot/steel"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfc:metal/ingot/steel"
+        },
+        {
+          "item": "create:polished_rose_quartz"
+        }
+      ],
+      "results": [
+        {
+          "item": "tfc:metal/ingot/steel"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create:electron_tube",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}

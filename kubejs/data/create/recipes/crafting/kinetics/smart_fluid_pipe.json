@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "I",
+      "P",
+      "E"
+    ],
+    "key": {
+      "I": {
+        "item": "tfc:metal/ingot/brass"
+      },
+      "P": {
+        "item": "create:fluid_pipe"
+      },
+      "E": {
+        "item": "create:electron_tube"
+      }
+    },
+    "result": {
+      "item": "create:smart_fluid_pipe"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:refined_iron_bloom"
+      },
+      {
+        "tag": "integration:tier_3_hammers"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/wrought_iron"
+      }
+    ],
+    "keepHeldItem": true
+}

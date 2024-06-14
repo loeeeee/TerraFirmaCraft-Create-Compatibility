@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "tfc:dirt/silty_loam"
+      },
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 125
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:mud/silty_loam"
+      }
+    ],
+    "processingTime": 10
+}

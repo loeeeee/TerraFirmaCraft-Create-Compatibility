@@ -1,0 +1,18 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:ore/small_hematite"
+      },
+      {
+        "tag": "tfc:hammers"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/hematite",
+        "count": 2
+      }
+    ],
+    "keepHeldItem": true
+}

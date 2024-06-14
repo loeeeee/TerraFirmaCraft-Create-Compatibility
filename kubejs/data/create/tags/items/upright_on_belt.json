@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#tfc:pileable_ingots",
+    "#forge:double_ingots",
+    "create:electron_tube"
+  ]
+}

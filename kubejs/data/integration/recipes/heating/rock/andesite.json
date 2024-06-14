@@ -1,0 +1,10 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "tag": "integration:rock/andesite"
+    },
+    "result_item": {
+      "item": "tfc:rock/magma/andesite"
+    },
+    "temperature": 1425
+}

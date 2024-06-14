@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/limestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/limestone"
+    }
+  ],
+  "processingTime": 25
+}

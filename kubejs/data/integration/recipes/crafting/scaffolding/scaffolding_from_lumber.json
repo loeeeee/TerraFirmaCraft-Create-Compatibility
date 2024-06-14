@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "LSL",
+      "L L",
+      "L L"
+    ],
+    "key": {
+      "L": {
+        "tag": "tfc:lumber"
+      },
+      "S": {
+        "tag": "forge:string"
+      }
+    },
+    "result": {
+      "item": "minecraft:scaffolding",
+      "count": 4
+    }
+}

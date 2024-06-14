@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:powder/wood_ash",
+        "kubejs:wood_ash"
+    ]
+}

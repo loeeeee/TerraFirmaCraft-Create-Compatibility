@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tfc:rock/cobble/conglomerate"
+  },
+  "result": "tfc:rock/raw/conglomerate",
+  "experience": 0.0,
+  "cooking_time": 400
+}

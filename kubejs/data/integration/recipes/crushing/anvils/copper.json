@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:metal/anvil/copper"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/double_ingot/copper",
+        "count": 7
+      }
+    ],
+    "processingTime": 3200
+}

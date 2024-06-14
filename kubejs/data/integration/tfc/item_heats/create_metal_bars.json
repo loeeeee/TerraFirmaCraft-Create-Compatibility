@@ -1,0 +1,11 @@
+{
+    "ingredient": [
+      {
+        "item": "create:copper_bars"
+      },
+      {
+        "item": "create:brass_bars"
+      }
+    ],
+    "heat_capacity": 0.714
+}

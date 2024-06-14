@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/ash"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/ash",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

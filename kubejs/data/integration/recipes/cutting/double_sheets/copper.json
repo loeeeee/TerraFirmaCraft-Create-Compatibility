@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_sheet/copper"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/copper",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

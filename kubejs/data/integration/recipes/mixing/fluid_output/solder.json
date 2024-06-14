@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "tfc:metal/tin",
+        "amount": 80
+      },
+      {
+        "fluid": "tfc:metal/weak_steel",
+        "amount": 10
+      },
+      {
+        "item": "tfc:powder/flux",
+        "count": 10
+      }
+    ],
+    "results": [
+      {
+        "fluid": "kubejs:solder",
+        "amount": 100
+      }
+    ],
+    "processingTime": 100,
+    "heatRequirement": "superheated"
+}

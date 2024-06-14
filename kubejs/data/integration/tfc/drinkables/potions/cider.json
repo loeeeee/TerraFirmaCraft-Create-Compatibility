@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_cider",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:jump_boost",
+      "duration": 4800,
+      "amplifier": 0
+    }
+  ]
+}

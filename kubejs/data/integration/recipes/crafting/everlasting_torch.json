@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " G ",
+      "GTG",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "T": {
+        "item": "tfc:torch"
+      }
+    },
+    "result": {
+      "item": "minecraft:torch",
+      "count": 2
+    }
+}

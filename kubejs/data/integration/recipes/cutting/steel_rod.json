@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/rod/steel"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:propeller_blade",
+        "count": 2
+      }
+    ],
+    "processingTime": 100
+}

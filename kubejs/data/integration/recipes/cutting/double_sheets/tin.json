@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_sheet/tin"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/tin",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

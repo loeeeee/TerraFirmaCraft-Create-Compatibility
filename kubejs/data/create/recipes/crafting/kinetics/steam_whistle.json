@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "B",
+      "C"
+    ],
+    "key": {
+      "B": {
+        "item": "tfc:metal/ingot/brass"
+      },
+      "C": {
+        "item": "tfc:metal/sheet/copper"
+      }
+    },
+    "result": {
+      "item": "create:steam_whistle",
+      "count": 2
+    }
+}

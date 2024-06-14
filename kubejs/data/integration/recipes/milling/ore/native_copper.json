@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/small_native_copper"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_raw_copper",
+        "chance": 0.2
+      }
+    ],
+    "processingTime": 100
+}

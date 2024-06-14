@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:food/rice_grain"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:food/rice_flour",
+        "chance": 0.75
+      }
+    ],
+    "processingTime": 100
+}

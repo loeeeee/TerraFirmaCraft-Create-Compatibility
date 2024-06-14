@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:drying_bricks/silt"
+    },
+    "result": "tfc:mud_brick/silt",
+    "experience": 0.0,
+    "cookingtime": 100
+}

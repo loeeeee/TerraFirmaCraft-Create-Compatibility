@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " C ",
+      "CWC",
+      " C "
+    ],
+    "key": {
+      "C": {
+        "item": "create:cogwheel"
+      },
+      "W": {
+        "tag": "minecraft:planks"
+      }
+    },
+    "result": {
+      "item": "create:gearbox"
+    }
+}

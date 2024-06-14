@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " T ",
+      "TRT",
+      "SSS"
+    ],
+    "key": {
+      "R": {
+        "item": "create:polished_rose_quartz"
+      },
+      "T": {
+        "item": "minecraft:redstone_torch"
+      },
+      "S": {
+        "tag": "forge:smooth_stone"
+      }
+    },
+    "result": {
+      "item": "minecraft:comparator"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/dolomite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ore/small_bismuthinite",
+        "chance": 0.05
+      },
+      {
+        "item": "tfc:ore/small_limonite",
+        "chance": 0.02
+      },
+      {
+        "item": "tfc:ore/small_magnetite",
+        "chance": 0.10
+      },
+      {
+        "item": "tfc:ore/small_malachite",
+        "chance": 0.03
+      }
+    ],
+    "processingTime": 150
+}

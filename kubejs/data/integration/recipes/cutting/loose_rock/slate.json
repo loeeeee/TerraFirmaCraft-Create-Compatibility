@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/slate"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/slate"
+    }
+  ],
+  "processingTime": 25
+}

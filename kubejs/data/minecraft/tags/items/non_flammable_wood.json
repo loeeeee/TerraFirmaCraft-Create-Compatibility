@@ -1,0 +1,10 @@
+{
+    "comment": "this is to prevent planks from being used in blaze burners, which would make them a more efficent fuel than charcoal",
+
+    "replace": false,
+    "values": [
+        "#minecraft:planks",
+        "#minecraft:wooden_slabs",
+        "#minecraft:wooden_stairs"
+    ]
+}

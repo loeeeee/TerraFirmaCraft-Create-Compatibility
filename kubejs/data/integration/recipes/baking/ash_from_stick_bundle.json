@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:stick_bundle"
+    },
+    "result": "kubejs:wood_ash",
+    "experience": 0.0,
+    "cookingtime": 400
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_veridium"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:layered_veridium"
+    }
+  ],
+  "processingTime": 100
+}

@@ -1,0 +1,14 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "tag": "integration:yields_yellow_sand"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:sand/yellow"
+      }
+    ],
+    "processingTime": 250
+  }

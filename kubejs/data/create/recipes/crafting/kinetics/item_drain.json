@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "M",
+      "C"
+    ],
+    "key": {
+      "M": {
+        "tag": "integration:chain_mesh"
+      },
+      "C": {
+        "item": "create:copper_casing"
+      }
+    },
+    "result": {
+      "item": "create:item_drain"
+    }
+}

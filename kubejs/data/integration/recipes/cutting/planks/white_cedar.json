@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/white_cedar"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/white_cedar",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tfc:corn_whiskey",
+      "amount": 100
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:potion_corn_whiskey",
+      "amount": 40
+    }
+  ],
+  "processingTime": 200,
+  "heatRequirement": "heated"
+}

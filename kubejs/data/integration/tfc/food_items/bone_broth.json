@@ -1,0 +1,12 @@
+{
+    "ingredient": {
+      "item": "kubejs:bone_broth"
+    },
+    "hunger": 4,
+    "saturation": 4,
+    "water": 20,
+    "decay_modifier": 0,
+    "vegetables": 1.5,
+    "protein": 1.5,
+    "dairy": 1
+}

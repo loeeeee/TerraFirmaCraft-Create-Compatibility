@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/schist"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/gravel/schist"
+      }
+    ],
+    "processingTime": 250
+}

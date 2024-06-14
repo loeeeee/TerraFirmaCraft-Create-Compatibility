@@ -1,0 +1,15 @@
+{
+    "ingredient": [
+      {
+          "item": "create:wrench"
+      },
+      {
+          "item": "create:potato_cannon"
+      },
+      {
+          "item": "create:extendo_grip"
+      }
+    ],
+    "size": "very_large",
+    "weight": "very_heavy"
+}

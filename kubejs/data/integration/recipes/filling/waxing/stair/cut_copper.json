@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "minecraft:cut_copper_stairs"
+      },
+      {
+        "fluid": "tfc:tallow",
+        "nbt": {},
+        "amount": 30
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:waxed_cut_copper_stairs"
+      }
+    ]
+}

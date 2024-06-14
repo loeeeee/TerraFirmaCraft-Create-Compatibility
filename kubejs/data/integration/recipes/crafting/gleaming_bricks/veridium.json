@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "create:cut_veridium"
+    }
+  },
+  "result": {
+    "item": "create:cut_veridium_bricks",
+    "count": 4
+  }
+}

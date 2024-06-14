@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/andesite"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/andesite",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

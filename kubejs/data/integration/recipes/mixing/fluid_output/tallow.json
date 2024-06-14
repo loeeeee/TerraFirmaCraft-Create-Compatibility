@@ -1,0 +1,33 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "tfc:blubber"
+      },
+      {
+        "item": "tfc:blubber"
+      },
+      {
+        "item": "tfc:blubber"
+      },
+      {
+        "item": "tfc:blubber"
+      },
+      {
+        "item": "tfc:blubber"
+      },
+      {
+        "fluid": "minecraft:water",
+        "nbt": {},
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "fluid": "tfc:tallow",
+        "amount": 1000
+      }
+    ],
+    "processingTime": 400,
+    "heatRequirement": "heated"
+}

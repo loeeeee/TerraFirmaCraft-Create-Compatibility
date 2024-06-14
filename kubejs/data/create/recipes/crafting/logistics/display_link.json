@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SE",
+    "C "
+  ],
+  "key": {
+    "S": {
+      "item": "tfc:metal/sheet/copper"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "item": "create:display_link"
+  }
+}

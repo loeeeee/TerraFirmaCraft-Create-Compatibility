@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "kubejs:crushed_nickel_ore"
+      },
+      {
+        "item": "kubejs:crushed_nickel_ore"
+      },      
+      {
+        "tag": "integration:magma"
+      },      
+      {
+        "tag": "integration:magma"
+      },      
+      {
+        "tag": "integration:magma"
+      },      
+      {
+        "tag": "integration:magma"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:andesite_alloy",
+        "count": 6
+      }
+    ]
+}

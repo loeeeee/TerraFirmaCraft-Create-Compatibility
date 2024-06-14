@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/brass"
+      }
+    ],
+    "result": {
+      "item": "create:crafter_slot_cover",
+      "count": 4
+    }
+}

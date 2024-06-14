@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/opal"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:gem/opal"
+      }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/chert"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/gravel/chert"
+      }
+    ],
+    "processingTime": 250
+}

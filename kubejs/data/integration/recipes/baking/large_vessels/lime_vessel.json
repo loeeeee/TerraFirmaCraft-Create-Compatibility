@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "tfc:ceramic/unfired_large_vessel/lime"
+    },
+    "result": "tfc:ceramic/large_vessel/lime",
+    "experience": 0.0,
+    "cookingtime": 600
+}

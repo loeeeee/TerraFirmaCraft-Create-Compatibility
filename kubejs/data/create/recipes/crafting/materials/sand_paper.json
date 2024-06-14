@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "tfc:unrefined_paper"
+      },
+      {
+        "tag": "forge:sand"
+      }
+    ],
+    "result": {
+      "item": "create:sand_paper"
+    }
+}

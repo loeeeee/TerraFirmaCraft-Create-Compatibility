@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/wood/blackwood"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_wood/blackwood"
+      }
+    ],
+    "processingTime": 50
+}

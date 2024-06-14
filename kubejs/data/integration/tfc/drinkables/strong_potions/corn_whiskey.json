@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_strong_corn_whiskey",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:haste",
+      "duration": 2400,
+      "amplifier": 1
+    }
+  ]
+}

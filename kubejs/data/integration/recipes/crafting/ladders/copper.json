@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "R R",
+      "RRR",
+      "R R"
+    ],
+    "key": {
+      "R": {
+        "item": "tfc:metal/rod/copper"
+      }
+    },
+    "result": {
+      "item": "create:copper_ladder",
+      "count": 16
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/slate"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/slate",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

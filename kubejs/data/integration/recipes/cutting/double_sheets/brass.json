@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_sheet/brass"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/brass",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

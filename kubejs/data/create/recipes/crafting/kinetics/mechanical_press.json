@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "P",
+      "C",
+      "I"
+    ],
+    "key": {
+      "P": {
+        "item": "create:piston_extension_pole"
+      },
+      "C": {
+        "item": "create:andesite_casing"
+      },
+      "I": {
+        "item": "tfc:metal/double_ingot/cast_iron"
+      }
+    },
+    "result": {
+      "item": "create:mechanical_press"
+    }
+}

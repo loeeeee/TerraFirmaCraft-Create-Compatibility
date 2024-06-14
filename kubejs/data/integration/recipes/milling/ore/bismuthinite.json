@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/small_bismuthinite"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:crushed_bismuth_ore",
+        "chance": 0.2
+      }
+    ],
+    "processingTime": 100
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:metal/sheet/zinc"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/ingot/zinc",
+        "count": 2
+      }
+    ],
+    "processingTime": 200
+}

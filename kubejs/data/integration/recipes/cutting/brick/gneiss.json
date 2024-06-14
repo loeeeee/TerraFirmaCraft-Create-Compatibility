@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:brick/gneiss"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:rock/button/gneiss"
+    }
+  ],
+  "processingTime": 25
+}

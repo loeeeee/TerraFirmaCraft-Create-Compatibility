@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "create:layered_asurine"
+    }
+  },
+  "result": {
+    "item": "create:asurine_pillar",
+    "count": 2
+  }
+}

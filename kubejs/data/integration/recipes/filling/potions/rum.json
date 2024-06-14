@@ -1,0 +1,33 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "kubejs:potion_rum",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:splash_potion",
+      "nbt":
+      {
+        "Potion": "minecraft:water",
+        "display":
+        {
+          "Name": "{\"text\":\"Formulated Rum Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects":[
+          {
+            "Id": 5,
+            "Amplifier": 0,
+            "Duration": 3600
+          }
+        ],
+        "CustomPotionColor": 7209250
+      }
+    }
+  ]
+}

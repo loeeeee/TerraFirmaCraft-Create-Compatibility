@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:unrefined_paper"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:paper"
+      }
+    ],
+    "processingTime": 50
+}

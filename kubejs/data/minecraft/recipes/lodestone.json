@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SSS",
+      "MMM",
+      "SSS"
+    ],
+    "key": {
+      "S": {
+        "tag": "forge:smooth_stone"
+      },
+      "M": {
+        "tag": "tfc:magnetic_rocks"
+      }
+    },
+    "result": {
+      "item": "minecraft:lodestone"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "tfc:unrefined_paper"
+      },
+      {
+        "item": "tfc:unrefined_paper"
+      },
+      {
+        "item": "tfc:unrefined_paper"
+      },
+      {
+        "item": "minecraft:leather"
+      }
+    ],
+    "result": {
+      "item": "minecraft:book"
+    }
+}

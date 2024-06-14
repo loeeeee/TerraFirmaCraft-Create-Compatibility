@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:brick/quartzite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:rock/button/quartzite"
+    }
+  ],
+  "processingTime": 25
+}

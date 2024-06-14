@@ -1,0 +1,13 @@
+{
+    "type": "tfc:welding",
+    "first_input": {
+      "item": "tfc:metal/greaves/red_steel"
+    },
+    "second_input": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "tier": 6,
+    "result": {
+      "item": "minecraft:netherite_leggings"
+    }
+}

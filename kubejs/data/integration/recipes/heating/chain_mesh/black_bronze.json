@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "kubejs:black_bronze_chain_mesh"
+    },
+    "result_fluid": {
+        "fluid": "tfc:metal/black_bronze",
+        "amount": 25
+    },
+    "temperature": 1070
+}

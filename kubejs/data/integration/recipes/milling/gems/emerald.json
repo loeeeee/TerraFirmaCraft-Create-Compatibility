@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/emerald"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:gem/emerald"
+      }
+    ],
+    "processingTime": 50
+}

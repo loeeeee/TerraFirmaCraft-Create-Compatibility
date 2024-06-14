@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "create:layered_ochrum"
+    }
+  },
+  "result": {
+    "item": "create:ochrum_pillar",
+    "count": 2
+  }
+}

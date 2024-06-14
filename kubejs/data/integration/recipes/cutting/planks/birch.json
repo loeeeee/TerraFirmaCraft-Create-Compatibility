@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/planks/birch"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/lumber/birch",
+        "count": 4
+      }
+    ],
+    "processingTime": 50
+}

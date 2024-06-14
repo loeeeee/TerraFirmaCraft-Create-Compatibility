@@ -1,0 +1,18 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "tfc:fire_clay_block"
+      },
+      {
+        "tag": "forge:ingots"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:ceramic/unfired_fire_ingot_mold",
+        "count": 2
+      }
+    ],
+    "keepHeldItem": true
+}

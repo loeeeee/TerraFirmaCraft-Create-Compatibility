@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:wood/log/pine"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wood/stripped_log/pine"
+      }
+    ],
+    "processingTime": 50
+}

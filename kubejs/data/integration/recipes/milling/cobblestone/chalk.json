@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:rock/cobble/chalk"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/gravel/chalk"
+      }
+    ],
+    "processingTime": 250
+}

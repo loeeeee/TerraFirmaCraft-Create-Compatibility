@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/chert"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/chert"
+    }
+  ],
+  "processingTime": 25
+}

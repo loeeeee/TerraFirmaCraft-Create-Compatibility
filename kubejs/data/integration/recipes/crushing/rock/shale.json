@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/shale"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/shale",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

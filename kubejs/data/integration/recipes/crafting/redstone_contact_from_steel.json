@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " S ",
+      "CRC",
+      "CCC"
+    ],
+    "key": {
+      "R": {
+        "tag": "forge:dusts/redstone"
+      },
+      "C": {
+        "tag": "forge:cobblestone"
+      },
+      "S": {
+        "item": "tfc:metal/sheet/steel"
+      }
+    },
+    "result": {
+      "item": "create:redstone_contact",
+      "count": 4
+    }
+}

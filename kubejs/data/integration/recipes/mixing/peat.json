@@ -1,0 +1,47 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "tfc:thatch"
+      },
+      {
+        "item": "tfc:thatch"
+      },
+      {
+        "item": "tfc:thatch"
+      },
+      {
+        "item": "tfc:thatch"
+      },
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      },      
+      {
+        "tag": "tfc:mud"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:peat",
+        "count": 8
+      }
+    ]
+}

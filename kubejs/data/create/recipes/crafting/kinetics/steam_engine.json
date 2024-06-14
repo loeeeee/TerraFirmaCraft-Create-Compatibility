@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "A",
+      "P",
+      "S"
+    ],
+    "key": {
+      "A": {
+        "item": "create:mechanical_arm"
+      },
+      "P": {
+        "item": "create:smart_fluid_pipe"
+      },
+      "S": {
+        "item": "create:speedometer"
+      }
+    },
+    "result": {
+      "item": "create:steam_engine"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "tfc:rock/cobble/rhyolite",
+        "tfc:rock/raw/rhyolite",
+        "tfc:rock/hardened/rhyolite"
+    ]
+}

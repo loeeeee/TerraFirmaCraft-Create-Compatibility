@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:rock/raw/claystone"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:rock/loose/claystone",
+        "count": 4
+      }
+    ],
+    "processingTime": 250
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:polished_cut_asurine"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:layered_asurine"
+    }
+  ],
+  "processingTime": 100
+}

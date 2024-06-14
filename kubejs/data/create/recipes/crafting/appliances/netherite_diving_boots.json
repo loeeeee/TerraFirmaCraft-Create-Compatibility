@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "P P",
+      "P P",
+      "G G"
+    ],
+    "key": {
+      "G": {
+        "item": "create:andesite_alloy"
+      },
+      "P": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "create:netherite_diving_boots"
+    }
+}

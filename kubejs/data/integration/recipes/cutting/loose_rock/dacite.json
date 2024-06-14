@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/dacite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/dacite"
+    }
+  ],
+  "processingTime": 25
+}

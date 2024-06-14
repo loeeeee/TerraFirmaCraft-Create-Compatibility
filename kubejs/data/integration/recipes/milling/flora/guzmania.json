@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:plant/guzmania"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:red_dye",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+}

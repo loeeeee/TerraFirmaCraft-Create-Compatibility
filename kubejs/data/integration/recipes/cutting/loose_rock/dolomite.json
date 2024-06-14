@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/dolomite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/dolomite"
+    }
+  ],
+  "processingTime": 25
+}

@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "kubejs:crushed_bismuth_ore"
+      },
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:crystalisation_catalyst",
+        "count": 2
+      }
+    ],
+    "heatRequirement": "heated"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:aggregate",
+      "count": 4
+    },
+    {
+      "item": "tfc:ore/small_garnierite"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 200
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:tuff",
+      "count": 4
+    }
+  ],
+  "processingTime": 100
+}

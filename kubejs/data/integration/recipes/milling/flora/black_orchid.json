@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:plant/black_orchid"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:purple_dye",
+        "count": 2
+      }
+    ],
+    "processingTime": 50
+}

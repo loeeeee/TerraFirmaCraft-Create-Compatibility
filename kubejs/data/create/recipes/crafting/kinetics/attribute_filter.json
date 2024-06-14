@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "tfc:metal/rod/brass"
+      },
+      "B": {
+        "item": "tfc:burlap_cloth"
+      }
+    },
+    "result": {
+      "item": "create:attribute_filter",
+      "count": 2
+    }
+}

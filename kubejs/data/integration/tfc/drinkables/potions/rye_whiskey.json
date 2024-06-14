@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_rye_whiskey",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:haste",
+      "duration": 4800,
+      "amplifier": 0
+    }
+  ]
+}

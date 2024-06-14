@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "tfc:metal/double_ingot/sterling_silver"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:metal/sheet/sterling_silver"
+      }
+    ]
+}

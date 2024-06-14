@@ -1,0 +1,17 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "tfc:food/maize"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:food/maize_grain"
+      },
+      {
+        "item": "tfc:straw"
+      }
+    ],
+    "processingTime": 25
+}

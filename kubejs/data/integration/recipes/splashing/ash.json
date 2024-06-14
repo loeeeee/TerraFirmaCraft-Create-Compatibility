@@ -1,0 +1,15 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "kubejs:wood_ash"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:charcoal",
+        "chance": 0.2
+      }
+    ],
+    "processingTime": 50
+}

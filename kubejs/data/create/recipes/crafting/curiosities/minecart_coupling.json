@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  I",
+      " R ",
+      "I  "
+    ],
+    "key": {
+      "I": {
+        "item": "tfc:metal/ingot/nickel"
+      },
+      "R": {
+        "item": "tfc:metal/rod/nickel"
+      }
+    },
+    "result": {
+      "item": "create:minecart_coupling",
+      "count": 2
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:food/barley_grain"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:food/barley_flour",
+        "chance": 0.75
+      }
+    ],
+    "processingTime": 100
+}

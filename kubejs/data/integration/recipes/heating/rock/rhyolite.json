@@ -1,0 +1,10 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+      "tag": "integration:rock/rhyolite"
+    },
+    "result_item": {
+      "item": "tfc:rock/magma/rhyolite"
+    },
+    "temperature": 1425
+}

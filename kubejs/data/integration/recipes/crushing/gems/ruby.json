@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "tfc:ore/ruby"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:powder/ruby",
+        "count": 4
+      }
+    ],
+    "processingTime": 100
+}

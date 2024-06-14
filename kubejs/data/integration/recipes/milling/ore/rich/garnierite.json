@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "tfc:ore/rich_garnierite"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:crushed_nickel_ore",
+        "chance": 0.7
+      }
+    ],
+    "processingTime": 100
+}

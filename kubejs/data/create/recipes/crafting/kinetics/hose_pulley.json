@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CJM",
+    " J ",
+    " B "
+  ],
+  "key": {
+    "C": {
+      "item": "create:copper_casing" 
+    },
+    "M": {
+      "item": "tfc:brass_mechanisms" 
+    },
+    "J": {
+      "item": "tfc:jute_fiber" 
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "create:hose_pulley"
+  }
+}

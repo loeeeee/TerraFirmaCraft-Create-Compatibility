@@ -1,0 +1,32 @@
+{
+    "_Comment_": "Credit to !mapter for ru translations",
+
+    "item.minecraft.chainmail_helmet": "Кольчужный капюшон из кованого железа",
+    "item.minecraft.chainmail_chestplate": "Кольчуга из кованого железа",
+    "item.minecraft.chainmail_leggings": "Поножи из кованого железа",
+    "item.minecraft.chainmail_boots": "Подковы из кованого железа",
+    "item.minecraft.netherite_ingot": "Индустриальный железный слиток",
+    "item.minecraft.netherite_leggings": "Индустриальные железные наголенники",
+    "item.minecraft.netherite_boots": "Индустриальные железные ботинки",
+
+    "block.minecraft.torch": "Вечный факел",
+    "block.minecraft.candle": "Вечная свеча",
+    "block.minecraft.white_candle": "Вечная белая свеча",
+    "block.minecraft.orange_candle": "Вечная оранжевая свеча",
+    "block.minecraft.magenta_candle": "Вечная пурпурная свеча",
+    "block.minecraft.light_blue_candle": "Вечная голубая свеча",
+    "block.minecraft.yellow_candle": "Вечная желтая свеча",
+    "block.minecraft.lime_candle": "Вечная лаймовая свеча",
+    "block.minecraft.pink_candle": "Вечная розовая свеча",
+    "block.minecraft.gray_candle": "Вечная серая свеча",
+    "block.minecraft.light_gray_candle": "Вечная светло-серая свеча",
+    "block.minecraft.cyan_candle": "Вечная голубовато-зеленая свеча",
+    "block.minecraft.purple_candle": "Вечная фиолетовая свеча",
+    "block.minecraft.blue_candle": "Вечная синяя свеча",
+    "block.minecraft.brown_candle": "Вечная коричневая свеча",
+    "block.minecraft.green_candle": "Вечная зеленая свеча",
+    "block.minecraft.red_candle": "Вечная красная свеча",
+    "block.minecraft.black_candle": "Вечная черная свеча",
+    "subtitles.entity.blaze.ambient": "",
+    "subtitles.entity.blaze.shoot": "Fire rushes"
+}
